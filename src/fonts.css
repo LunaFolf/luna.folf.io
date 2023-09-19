@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Inter";
-    src: url(../fonts/Inter-Regular.ttf) format("truetype"), url(../fonts/Inter-Medium.ttf) format("truetype"), url(../fonts/Inter-SemiBold.ttf) format("truetype");
+    src: url(fonts/Inter-Regular.ttf) format("truetype"), url(fonts/Inter-Medium.ttf) format("truetype"), url(fonts/Inter-SemiBold.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "WorkSans";
-    src: url(../fonts/WorkSans-SemiBold.ttf) format("truetype");
+    src: url(fonts/WorkSans-SemiBold.ttf) format("truetype");
 }
 
 .text-title, .text-title-1, .text-title-2, .text-title-3, .text-headline {
