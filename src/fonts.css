@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Regular.ttf) format("truetype"), url(../fonts/Inter-Medium.ttf) format("truetype"), url(../fonts/Inter-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "WorkSans";
+    src: url(../fonts/WorkSans-SemiBold.ttf) format("truetype");
+}
+
+.text-title, .text-title-1, .text-title-2, .text-title-3, .text-headline {
+    font-family: WorkSans, sans-serif;
+    font-weight: 600;
+}
+.text-title {
+    font-size: 29px;
+    line-height: 36px;
+}
+
+.text-title-1 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.text-title-2 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.text-title-3 {
+    font-size: 17px;
+    line-height: 24px;
+}
+
+.text-headline {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.text-body, .text-button, .text-callout, .text-callout-bold, .text-link, .text-subhead, .text-footnote, .text-caption-1, .text-caption-2, .text-error {
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+}
+
+.text-body {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+}
+
+.text-button {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    font-weight: 600;
+}
+
+.text-callout {
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.05px;
+}
+
+.text-callout-bold {
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.05px;
+    font-weight: 600;
+}
+
+.text-link {
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.05px;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.text-subhead {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    font-weight: 600;
+}
+
+.text-footnote {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.05px;
+}
+
+.text-caption-1 {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    font-weight: 500;
+}
+
+.text-caption-2 {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+}
+
+.text-error {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #D11E1E;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-faded {
+    color: hsla(0, 0%, 44%, 1);
+}
