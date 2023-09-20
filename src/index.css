@@ -1,3 +1,6 @@
+@import 'reset.css';
+@import 'fonts.css';
+
 :root {
   font-family: Inter, sans-serif;
   font-weight: 400;
@@ -26,5 +29,22 @@ body {
   }
   button {
     background-color: #f9f9f9;
+  }
+}
+
+@media only print {
+  :root {
+    color-scheme: dark light;
+    color: #000;
+    background-color: #fff;
+  }
+
+  a {
+    text-decoration: none!important;
+    color: inherit;
+  }
+
+  .hide-print {
+    display: none;
   }
 }
