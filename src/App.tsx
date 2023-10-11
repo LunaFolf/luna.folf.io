@@ -35,7 +35,7 @@ function App() {
         <hr/>
         <div className={"space-me-please"}>
           <div className={"text-headline"}>Fullstack Web Developer</div>
-          <div className={"text-subhead"}>FOD Mobility Group (Mobilleo Team) - Saltaire [March 2019 - Present]</div>
+          <div className={"text-subhead"}>FOD Mobility Group (Mobilleo Team) - Saltaire [March 2019 - September 2023]</div>
           <ul>
             <li>Using Javascript and front-end frameworks such as Vue.js and Quasar, to maintain and develop Mobilleo, a "mobility-as-a-service" application.</li>
             <li>Created designs that would later be used in a complete redesign across all platforms to realign them, and create a more unified feeling.</li>
