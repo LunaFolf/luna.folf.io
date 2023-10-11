@@ -72,7 +72,7 @@ function App() {
           <div className={"text-title-2"}>~6 years experience in:</div>
           <ul>
             <li>Advanced JavaScript development for web and standalone apps</li>
-            <li>Vue.js Frontend Framework</li>
+            <li>Vue 2 Frontend Framework</li>
             <li>📈 GIT version control</li>
             <li>PHP (not touched in a long time however 😬)</li>
           </ul>
@@ -91,7 +91,8 @@ function App() {
           <div className={"text-title-2"}>~1 years experience in:</div>
           <ul>
             <li>🧁 <a href={"https://bun.sh"}>bun.sh</a></li>
-            <li>⚛️ React (yes, I know I'm way behind... blame Vue.js ok??)</li>
+            <li>⚛️ React</li>
+            <li>Vue 3 Framework</li>
           </ul>
         </div>
       </div>
